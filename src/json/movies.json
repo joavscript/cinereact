@@ -1,27 +1,27 @@
 [
     {
-        "img":"img/movie-dragonball.jpg",
+        "img":"../img/movie_dragonball.jpg",
         "titulo":"Dragon Ball Z Super: Super Hero",
         "descripcion":"La malvada organización Red Ribbon Army se reforma con nuevos y más poderosos androides, Gamma 1 y Gamma 2 para buscar venganza."
         
     },
     {
-        "img":"img/movie-elvis.jpg",
+        "img":"../img/movie_elvis.jpg",
         "titulo":"Elvis",
         "descripcion":"Elvis Presley salta a la fama en la década de 1950, mientras mantiene una relación compleja con su manager, el coronel Tom Parker."
     },
     {
-        "img":"img/movie-buzz.jpg",
+        "img":"../img/movie_buzz.jpg",
         "titulo":"Lightyear",
         "descripcion":"Buzz Lightyear se embarca en una aventura intergaláctica con un grupo de reclutas ambiciosos y su compañero robot. Los amigos tendrán que aprender a trabajar juntos para escapar del malvado Zurg y su ejército de robots."
     },
     {
-        "img":"img/movie-huerfana.jpg",
+        "img":"../img/movie_huerfana.jpg",
         "titulo":"La Huérfana: Primer Asesinato",
         "descripcion":"La huérfana: Primer Asesinato es una película de terror psicológico, dirigida por William Brent Bell y escrita por David Coggeshall. Es una precuela de La huérfana, filme estrenado previamente en 2009."
     },
     {
-        "img":"img/movie-avatar.jpg",
+        "img":"../img/movie_avatar.jpg",
         "titulo":"Avatar: El Camino Del Agua",
         "descripcion":"Jake Sully y Ney'tiri han formado una familia y hacen todo lo posible por permanecer juntos. Sin embargo, deben abandonar su hogar y explorar las regiones de Pandora cuando una antigua amenaza reaparece."
     }
